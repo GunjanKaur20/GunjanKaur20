@@ -32,6 +32,19 @@
   <img src="https://img.shields.io/badge/GitHub-Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GunjanKaur20&show_icons=true&theme=radical" alt="GunjanKaur20's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GunjanKaur20&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunjanKaur20&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 
 
 ## 🚀 My Skills
