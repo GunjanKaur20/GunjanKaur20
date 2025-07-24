@@ -32,7 +32,9 @@
   <img src="https://img.shields.io/badge/GitHub-Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
-## 📊 GitHub Stats
+  
+## 📈 My GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GunjanKaur20&show_icons=true&theme=radical" alt="GunjanKaur20's GitHub Stats" />
 </p>
@@ -63,12 +65,6 @@ Here are some of my projects (click to see them):
 - [ClicPic Photo Editor](https://github.com/GunjanKaur20/ClickPic.git) – A GUI-based photo editing application developed with Python using Tkinter.
 
 ---
-
-## 📈 My GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GunjanKaur20&theme=blueberry)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GunjanKaur20&layout=compact&theme=blueberry)
-
 
 ---
 
