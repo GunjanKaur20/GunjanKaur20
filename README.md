@@ -65,7 +65,7 @@ Here are some of my projects (click to see them):
 ---
 
 ## 📈 My GitHub Stats
-![Gunjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GunjanKaur20&show_icons=true&theme=blueberry)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GunjanKaur20&theme=blueberry)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GunjanKaur20&layout=compact&theme=blueberry)
 
